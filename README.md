@@ -25,3 +25,5 @@ Dynamic MERN Full Stack Web Developer with 1200+ hours of coding experience. Pro
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=payalrawal123&show_icons=true&locale=en" alt="payalrawal123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=payalrawal123&" alt="payalrawal123" /></p>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=payalrawal123&theme=tokyonight"></a>
+<a href="https://github.com/payalrawal123"><img alt="Sujeet Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=payalrawal123&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
